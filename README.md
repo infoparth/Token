@@ -16,25 +16,25 @@ This repository showcases a basic yet robust implementation of an ERC20 token. I
 ### Getting Started
 To explore this ERC20 token contract and mint your own tokens, follow these steps:
 
-1 Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
 ```
 git clone [https://github.com/infoparth/Token.git](https://github.com/infoparth/Token.git)
 ```
 
-1 Navigate to the project directory:
+1. Navigate to the project directory:
 
 ```
 cd contracts
 ```
 
-1 Review the contract code in the Token.sol file to gain an understanding of the contract's structure and functions.
+1. Review the contract code in the Token.sol file to gain an understanding of the contract's structure and functions.
 
-1 Deploy the contract to an Ethereum testnet or your local development environment using a tool like Remix or Hardhat.
+1. Deploy the contract to an Ethereum testnet or your local development environment using a tool like Remix or Hardhat.
 
-1 Mint tokens by calling the mint function with the desired amount.
+1. Mint tokens by calling the mint function with the desired amount.
 
-1 Interact with your newly created ERC20 token and explore its features!
+1. Interact with your newly created ERC20 token and explore its features!
 
 ### Contributing
 Contributions are always welcome! If you have ideas for improvements, bug fixes, or new features, please submit an issue or pull request. Together, we can make this repository an even more valuable resource for the Ethereum community.
